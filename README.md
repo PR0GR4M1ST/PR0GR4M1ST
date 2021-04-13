@@ -9,12 +9,13 @@
 - 😄 Pronouns: PR0GR4M1ST, PH0NK3R
 - ⚡ Fun fact: you is my bro
 
-## Hey 👋, This is PR0GR4M1ST
+## Hey 👋, This is PR0GR4M1ST 🔥
 [![Gmail Badge](https://img.shields.io/badge/-anton.soloviev2016@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anton.soloviev2016@gmail.com)](mailto:anton.soloviev2016@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-PR0GR4M1ST-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PR0GR4M1ST/)](https://www.linkedin.com/in/PR0GR4M1ST/) [![Github Badge](https://img.shields.io/badge/-PR0GR4M1ST-grey?style=flat&logo=github&logoColor=white&link=https://github.com/PR0GR4M1ST/)](https://www.github.com/PR0GR4M1ST/) [![Twitter Badge](https://img.shields.io/badge/-@soloviev2016-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@soloviev2016/)](https://www.twitter.com/@soloviev2016/) 
 
 - Python 
 
+ 
 - Tensorflow
 - Keras
 - PyTorch
